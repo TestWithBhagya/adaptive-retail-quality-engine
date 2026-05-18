@@ -200,6 +200,6 @@ browser=chrome
 
 # Author
 
-Bhagya Shastrakar
+Bhagyashree Shastrakar
 
 Automation QA Engineer | Selenium | REST Assured | Hybrid Automation Framework Development
